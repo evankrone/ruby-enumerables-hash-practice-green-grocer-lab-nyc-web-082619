@@ -58,3 +58,4 @@ def checkout(cart, coupons)
     total += price * quantity
   end
 end
+end
